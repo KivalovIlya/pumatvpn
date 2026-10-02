@@ -1,0 +1,1 @@
+{"$schema":"../gen/schemas/desktop-schema.json","identifier":"default","description":"Default permissions for PumatVPN","windows":["main"],"permissions":["core:default","opener:default"]}
